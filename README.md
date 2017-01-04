@@ -2,6 +2,7 @@
 
 Stratio Ingestion
 =================
+2017-01-04 完成编译jar
 
 Contents
 --------
